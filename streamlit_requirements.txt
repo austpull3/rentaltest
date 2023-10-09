@@ -1,11 +1,2 @@
 pandas 
-scikit-learn
-tensorflow==2.1.0
-tensorflow-estimator==2.1.0
-tensorflow-text==2.0.1
-transformers
-pyodbc
-tika 
-streamlit
-tensorflow-hub
-seaborn 
+pymssql==2.2.8
