@@ -1,4 +1,3 @@
-import pyodbc
 server = 'HOWE-ACCT-SERV\SAGE300CRE'
 database = 'HoweInc'
 username = 'sa'
