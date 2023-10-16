@@ -1,4 +1,3 @@
 streamlit
 pandas 
-pyodbc
-sqlalchemy
+pyodbc==4.0.39
